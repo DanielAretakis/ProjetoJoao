@@ -1,0 +1,9 @@
+.card .links{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+  }
+
+  input#senha{
+    margin-bottom: 1rem;
+  }
